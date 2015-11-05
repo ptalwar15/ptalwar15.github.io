@@ -1,0 +1,13 @@
+
+
+-----
+
+v1.0.1 - 13.07.2015
+
+- fixed a syntax error in main.css file
+- fixed contact-form not sending issue
+
+*** changed files
+
+	- css/main.css
+	- send-mail.php
