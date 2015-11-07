@@ -1,9 +1,9 @@
 <?php
 
 	// site owner
-	$site_name = 'Photography HTML5 Template';
-	$sender_domain = 'server@pixelwars.org';
-	$to = 'info@johndoe.com';
+	$site_name = 'Vicky Talwar';
+	$sender_domain = 'ptalwar15.github.io';
+	$to = 'ptalwar578@gmail.com';
 	
 	// contact form fields
 	$name = trim( $_POST['name'] );

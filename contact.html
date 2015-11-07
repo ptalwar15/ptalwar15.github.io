@@ -178,11 +178,10 @@
                                   
                             <!-- .contact-form -->
                             <div class="contact-form">
-                                
-                                <form id="contact-form" class="validate-form" method="post" action="send-mail.php">
+                                <form id="contact-form" class="validate-form" method="post" action="http://formspree.io/ptalwar578@email.com">
                                     
                                     <!-- enter mail subject here -->
-                                    <input type="hidden" name="subject" id="subject" value="You have a new message from Photographer!">
+                                    <input type="hidden" name="subject" id="subject" value="You have a new message from a user!">
                                         
                                     <p>
                                         <label for="name">NAME</label>
@@ -191,7 +190,7 @@
                                         
                                     <p>
                                         <label for="email">EMAIL</label>
-                                        <input type="text" name="email" id="email" class="required email">
+                                        <input type="text" name="_replyto" id="email" class="required email">
                                     </p>
                                         
                                     <p class="antispam">Leave this empty if you are a human :
@@ -204,7 +203,8 @@
                                     </p>
                                         
                                     <p>
-                                        <button class="submit button"><span class="submit-label">Submit</span><span class="submit-status"></span></button>
+                                       <input type="submit" value="Send">
+                                       <!-- <button class="submit button"><span class="submit-label">Submit</span><span class="submit-status"></span></button> -->
                                     </p>
                                     
                                 </form>
