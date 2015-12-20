@@ -20,7 +20,7 @@
 	
    -------------------------------------------- */
    
-   
+   @import url(https://fonts.googleapis.com/css?family=Cardo:400italic,700);
    
 /*  --------------------------------------------
 
@@ -2133,7 +2133,7 @@ A library of transitions for revealing the loaded images
 	text-align: center;
 	}
 	.intro h2 {
-	     font-weight: 100; font-size: 1.2em; line-height: 1.4;
+	     font-family: 'Cardo', serif; font-weight: 100; font-size: 1.2em; line-height: 1.4;
 		}
 	.intro h2 strong {
         font-weight: 700;  letter-spacing: -1px;
