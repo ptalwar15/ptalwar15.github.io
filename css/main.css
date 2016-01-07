@@ -593,7 +593,7 @@ div.uploader,
 				
 /* SOCIAL LINKS */
 .social {
- 	padding: 0; margin: 2em 0 4em 0; list-style: none;
+ 	padding: 0px; margin: 2em 0 4em 0; list-style: none;
 	}
 	.social li {
  		display: inline-block; padding: 0; margin-bottom: -3px;
