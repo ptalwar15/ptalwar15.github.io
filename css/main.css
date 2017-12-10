@@ -557,6 +557,12 @@ div.uploader,
 .content-area:not(.with-sidebar) .full-width-image img {
 	position: absolute; left: 0; width: 100%;
 	}
+.home_img {
+		width: auto;
+		height: 400px;
+		max-height: 400px;
+
+	}
 
 /* SECTION-TITLE */
 .section-title { 
